@@ -7,7 +7,7 @@ Schd.sln 파일을 실행한 후 CPU Scheduler Testing 방법.pdf 파일을 참�
 
 1.FCFS Scheduling
 ---
->>먼저, FCFS(First-Come, First-Served) Scheduling 방식이다. 이는 가장 단순한 구조인데 프로세스의 정보 중 도착시간과 실행시간만을 고려한다. 도착시간이 빠른 순으로 프로세스를 실행한다. FCFS는 비선점 방식으로 실행되기 때문에 작업시간이 짧은 프로세스라 하더라도 늦게 도착한다면 계속해서 먼저 도착한 앞의 프로세스가 종료되기만을 기다려야하는 convoy effect상태가 발생한다.
+>먼저, FCFS(First-Come, First-Served) Scheduling 방식이다. 이는 가장 단순한 구조인데 프로세스의 정보 중 도착시간과 실행시간만을 고려한다. 도착시간이 빠른 순으로 프로세스를 실행한다. FCFS는 비선점 방식으로 실행되기 때문에 작업시간이 짧은 프로세스라 하더라도 늦게 도착한다면 계속해서 먼저 도착한 앞의 프로세스가 종료되기만을 기다려야하는 convoy effect상태가 발생한다.
 
 2.SJF (Non_Preemptive) Scheduling
 ---
