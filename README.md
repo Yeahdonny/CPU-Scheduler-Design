@@ -2,6 +2,7 @@
 프로세스 스케쥴러 구현 (C#)
 
 Schd.sln 파일을 실행한 후 CPU Scheduler Testing 방법.pdf 파일을 참고하여 테스트하면 됩니다.
+Schd/ShedulingAlgorithm.cs 파일에 구현된 Scheduling 알고리즘이 있습니다.
 
 ## 구현한 Scheduling 기법
 
